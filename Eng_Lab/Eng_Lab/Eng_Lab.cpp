@@ -25,6 +25,7 @@ enum
 
 void main(void)
 {
+	printf("firts commit");
 	int order,element,quarter,variant=0;
 	float sum=0;
 	setlocale(LC_ALL, "rus");
